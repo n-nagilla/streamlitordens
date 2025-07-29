@@ -1,0 +1,8 @@
+[theme]
+base="dark"
+# Você pode personalizar as cores se quiser:
+# primaryColor="#4CAF50" # Cor principal (verde)
+# backgroundColor="#0E1117" # Fundo geral
+# secondaryBackgroundColor="#262730" # Fundo do sidebar
+# textColor="#FAFAFA"
+# font="sans serif"
